@@ -12,5 +12,6 @@ export const modulesOptions = {
   },
 
   undefined: { title: "App Menu", copy: "Routes available!", styles: header },
+  undefined: { title: "App Menu", copy: "Routes available!", styles: header },
   undefined: { title: "App Menu", copy: "Routes available!", styles: header }
 }
